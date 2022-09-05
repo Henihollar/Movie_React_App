@@ -6,7 +6,7 @@ import SearchIcon from "./search.svg";
 
 //  c136a5f8
 
-const API_URL = "http://www.omdbapi.com?i=tt3896198&apikey=c136a5f8";
+const API_URL = "https://www.omdbapi.com?i=tt3896198&apikey=c136a5f8";
 
 const movie1 = {
     
